@@ -2,8 +2,8 @@ fx_version 'adamant'
 game 'gta5'
 
 files {
-    'index.html',
-    'root.css'
+    'html/index.html',
+    'html/index.css'
 }
 
-loadscreen 'index.html'
+loadscreen 'html/index.html'
